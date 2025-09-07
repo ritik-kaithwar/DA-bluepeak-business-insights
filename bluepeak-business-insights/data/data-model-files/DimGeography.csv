@@ -1,0 +1,994 @@
+GeoID,state,state_name,county,region,lat,lon
+0,Unknown,Unknown,Unknown,Unknown,,
+1,GA,Georgia,Chatham County,South,32.08354,-81.09983
+2,IN,Indiana,Johnson County,Midwest,39.61366,-86.10665
+3,CA,California,Alameda County,West,37.66243,-121.87468
+4,IN,Indiana,Monroe County,Midwest,39.16533,-86.52639
+5,CT,Connecticut,Hartford County,Northeast,41.77524,-72.52443
+6,MN,Minnesota,Hennepin County,Midwest,44.9133,-93.50329
+7,MA,Massachusetts,Norfolk County,Northeast,42.32385,-71.142
+8,CA,California,Los Angeles County,West,34.05529,-117.75228
+9,UT,Utah,Salt Lake County,West,40.56217,-111.92966
+10,NC,North Carolina,Alamance County/Guilford County,South,36.07613,-79.4683
+11,IN,Indiana,Monroe County,Midwest,39.11904,-86.51979
+12,IL,Illinois,Kendall County/Kane County/Will County/DuPage County,Midwest,41.76346,-88.2901
+13,CA,California,Riverside County,West,33.72058,-116.21556
+14,OH,Ohio,Montgomery County,Midwest,39.75895,-84.19161
+15,IL,Illinois,Kane County,Midwest,41.94151,-88.321
+16,NY,New York,Suffolk County,Northeast,40.71258,-73.19552
+17,MI,Michigan,Clinton County/Ingham County/Eaton County,Midwest,42.71434,-84.55928
+18,PA,Pennsylvania,Allegheny County,Northeast,40.44062,-79.99589
+19,AZ,Arizona,Maricopa County,West,33.37032,-112.58378
+20,CA,California,Solano County,West,38.10409,-122.25664
+21,CA,California,Los Angeles County,West,34.02862,-117.81034
+22,CA,California,Orange County,West,33.6603,-117.99923
+23,FL,Florida,Polk County/Osceola County,South,28.11873,-81.47923
+24,CA,California,Orange County,West,33.60002,-117.672
+25,AL,Alabama,Lee County,South,32.60986,-85.48078
+26,LA,Louisiana,Jefferson Parish,South,29.984090000000002,-90.15285
+27,NC,North Carolina,Durham County/Orange County,South,35.92812,-79.03742
+28,MA,Massachusetts,Middlesex County,Northeast,42.3751,-71.10561
+29,PA,Pennsylvania,Lancaster County,Northeast,40.03788,-76.30551
+30,CA,California,San Diego County,West,33.03699,-117.29198
+31,CA,California,Los Angeles County,West,34.01945,-118.49119
+32,NH,New Hampshire,Hillsborough County,Northeast,42.99564,-71.45479
+33,IL,Illinois,Winnebago County/Ogle County,Midwest,42.25884,-89.06455
+34,GA,Georgia,Richmond County,South,33.36149,-82.075
+35,CA,California,Riverside County,West,33.78252,-117.22865
+36,NJ,New Jersey,Morris County,Northeast,40.85964,-74.42335
+37,UT,Utah,Davis County,West,41.06022,-111.97105
+38,KY,Kentucky,Jefferson County,South,38.25424,-85.75941
+39,CA,California,Alameda County,West,37.54827,-121.98857
+40,NY,New York,Westchester County,Northeast,40.91149,-73.78235
+41,IL,Illinois,Sangamon County,Midwest,39.79106,-89.64457
+42,IL,Illinois,Cook County/Will County,Midwest,41.56858,-87.80422
+43,IN,Indiana,Vigo County,Midwest,39.47555,-87.38835
+44,CA,California,Alameda County,West,37.59583,-122.01917
+45,FL,Florida,Pinellas County,South,27.8428,-82.69954
+46,CA,California,Santa Clara County,West,37.00578,-121.56828
+47,MI,Michigan,Wayne County,Midwest,42.33143,-83.04575
+48,CA,California,Placer County,West,38.75212,-121.28801
+49,TX,Texas,McLennan County,South,31.54933,-97.14667
+50,CA,California,Los Angeles County,West,33.99307,-117.96868
+51,IL,Illinois,Cook County/Will County,Midwest,41.60815,-87.85929
+52,CT,Connecticut,New Haven County,Northeast,41.5585,-73.03668
+53,TX,Texas,Brazos County,South,30.62798,-96.33441
+54,NY,New York,Suffolk County,Northeast,40.88409,-73.37676
+55,ND,North Dakota,Grand Forks County,Midwest,47.92526,-97.03285
+56,AZ,Arizona,Maricopa County,West,33.44838,-112.07404
+57,FL,Florida,Brevard County,South,28.03446,-80.58866
+58,OH,Ohio,Lorain County,Midwest,41.45282,-82.18237
+59,FL,Florida,Broward County,South,26.12231,-80.14338
+60,CO,Colorado,Weld County,West,40.42331,-104.70913
+61,IN,Indiana,Elkhart County,Midwest,41.65183,-85.94312
+62,CT,Connecticut,Hartford County,Northeast,41.76371,-72.68509
+63,FL,Florida,Hernando County,South,28.47689,-82.52546
+64,CA,California,Sacramento County,West,38.60336,-121.38005
+65,IN,Indiana,Vanderburgh County,Midwest,37.97476,-87.55585
+66,CA,California,Stanislaus County,West,37.49466,-120.84659
+67,TX,Texas,Harris County,South,29.99883,-95.1766
+68,MI,Michigan,Wayne County,Midwest,42.33698,-83.27326
+69,NY,New York,New York County,Northeast,40.72833,-73.99417
+70,TX,Texas,Wichita County,South,33.91371,-98.49339
+71,FL,Florida,Broward County,South,26.12759,-80.2331
+72,MA,Massachusetts,Norfolk County,Northeast,42.33176,-71.12116
+73,CA,California,Los Angeles County,West,34.06862,-118.02757
+74,MO,Missouri,Jackson County,Midwest,39.01695,-94.28161
+75,IL,Illinois,Cook County,Midwest,42.03336,-87.8834
+76,WA,Washington,King County/Pierce County,West,47.30377,-122.21
+77,CA,California,Los Angeles County,West,33.85363,-118.13396
+78,TX,Texas,Bell County,South,31.09823,-97.34278
+79,MN,Minnesota,Anoka County,Midwest,45.11997,-93.28773
+80,FL,Florida,Miami-Dade County,South,25.67149,-80.4445
+81,CA,California,Los Angeles County,West,34.14778,-118.14452
+82,IN,Indiana,Hamilton County,Midwest,39.96548,-86.14837
+83,CA,California,Los Angeles County,West,33.97918,-118.03284
+84,WI,Wisconsin,Winnebago County,Midwest,44.02471,-88.54261
+85,CA,California,Los Angeles County,West,34.00944,-118.10528
+86,AZ,Arizona,Maricopa County,West,33.42227,-111.82264
+87,FL,Florida,Miami-Dade County,South,25.75871,-80.39839
+88,MA,Massachusetts,Middlesex County,Northeast,42.30791,-71.4362
+89,LA,Louisiana,Orleans Parish,South,29.95465,-90.07507
+90,IL,Illinois,Cook County,Midwest,41.84454,-87.75929
+91,SD,South Dakota,Minnehaha County/Lincoln County,Midwest,43.53834,-96.732
+92,PA,Pennsylvania,Erie County,Northeast,42.12922,-80.08506
+93,ND,North Dakota,Cass County,Midwest,46.87719,-96.7898
+94,NM,New Mexico,Santa Fe County,West,35.68698,-105.9378
+95,WI,Wisconsin,Milwaukee County,Midwest,43.01668,-88.00703
+96,IN,Indiana,Vanderburgh County,Midwest,37.96821,-87.49674
+97,IL,Illinois,Will County,Midwest,41.68366,-88.08834
+98,NJ,New Jersey,Ocean County,Northeast,40.0908,-74.36126
+99,CA,California,Santa Clara County,West,37.33939,-121.89496
+100,IL,Illinois,Kendall County/Will County,Midwest,41.5177,-88.14885
+101,OR,Oregon,Multnomah County,West,45.49818,-122.43148
+102,MA,Massachusetts,Plymouth County,Northeast,42.08343,-71.01838
+103,IL,Illinois,Will County,Midwest,41.59625,-88.08915
+104,IN,Indiana,St. Joseph County,Midwest,41.66997,-86.27628
+105,CO,Colorado,Broomfield County,West,39.92054,-105.08665
+106,MN,Minnesota,Dakota County,Midwest,44.76774,-93.27772
+107,NJ,New Jersey,Hudson County,Northeast,40.66871,-74.11431
+108,TX,Texas,Williamson County,South,30.63269,-97.67723
+109,IA,Iowa,Story County,Midwest,42.03471,-93.61994
+110,FL,Florida,Broward County,South,26.0112,-80.14949
+111,FL,Florida,Broward County,South,26.31841,-80.09977
+112,CA,California,San Bernardino County,West,34.03363,-117.04309
+113,MI,Michigan,Calhoun County,Midwest,42.32115,-85.17971
+114,GA,Georgia,Fulton County/Cobb County,South,34.03945,-84.35095
+115,TX,Texas,Rockwall County/Kaufman County/Collin County/Denton County/Dallas County,South,32.79333,-96.76651
+116,IN,Indiana,Delaware County,Midwest,40.19153,-85.38601
+117,CA,California,Santa Barbara County,West,34.95303,-120.43572
+118,NJ,New Jersey,Camden County,Northeast,39.90461,-74.997
+119,NY,New York,Erie County,Northeast,42.73911,-78.85713
+120,MI,Michigan,Kent County,Midwest,42.91336,-85.70531
+121,OH,Ohio,Hamilton County,Midwest,39.25479,-84.62414
+122,CA,California,Shasta County,West,40.58654,-122.39168
+123,OK,Oklahoma,Rogers County/Wagoner County/Osage County/Tulsa County,South,36.12795,-95.90232
+124,CA,California,Los Angeles County,West,33.83585,-118.34063
+125,VA,Virginia,Richmond city,South,37.55376,-77.46026
+126,CA,California,Los Angeles County,West,33.89585,-118.22007
+127,CA,California,San Diego County,West,32.64,-117.08417
+128,OH,Ohio,Stark County,Midwest,40.8686,-81.36892
+129,IA,Iowa,Black Hawk County,Midwest,42.49276,-92.34296
+130,IL,Illinois,Lake County,Midwest,42.37285,-87.94653
+131,CA,California,San Joaquin County,West,38.1302,-121.27245
+132,CA,California,Monterey County,West,36.67774,-121.6555
+133,CA,California,Los Angeles County,West,33.88168,-118.11701
+134,NJ,New Jersey,Cumberland County,Northeast,39.48623,-75.02573
+135,LA,Louisiana,Bossier Parish,South,32.51599,-93.73212
+136,MA,Massachusetts,Middlesex County,Northeast,42.3876,-71.0995
+137,CA,California,Los Angeles County,West,34.06862,-117.93895
+138,IL,Illinois,Will County,Midwest,41.68178,-88.20282
+139,NY,New York,Westchester County,Northeast,41.02928,-73.84285
+140,NY,New York,Monroe County,Northeast,43.2134,-77.57972
+141,IL,Illinois,McLean County,Midwest,40.47578,-88.96991
+142,TX,Texas,Martin County/Midland County,South,32.02464,-102.11347
+143,CA,California,Orange County,West,33.70918,-117.95367
+144,NJ,New Jersey,Union County,Northeast,40.69527,-74.26908
+145,AR,Arkansas,Benton County,South,36.33202,-94.11854
+146,IL,Illinois,DuPage County,Midwest,41.85857,-88.08948
+147,CT,Connecticut,Hartford County,Northeast,41.76204,-72.74204
+148,WI,Wisconsin,Outagamie County/Calumet County/Winnebago County,Midwest,44.27795,-88.38826
+149,OK,Oklahoma,Comanche County,South,34.60869,-98.39033
+150,NJ,New Jersey,Hudson County,Northeast,40.72816,-74.07764
+151,IL,Illinois,Cook County,Midwest,42.04639,-87.69435
+152,NY,New York,Erie County,Northeast,43.01164,-78.75715
+153,CT,Connecticut,New Haven County,Northeast,41.27212,-72.9675
+154,GA,Georgia,DeKalb County/Fulton County,South,33.76291,-84.42267
+155,IL,Illinois,DuPage County,Midwest,41.76635,-88.2009
+156,VA,Virginia,Fairfax County,South,38.84039,-77.42888
+157,CA,California,Los Angeles County,West,34.05223,-118.24368
+158,MO,Missouri,St. Louis city,Midwest,38.62727,-90.19789
+159,FL,Florida,Sumter County/Marion County,South,28.89895,-81.99374
+160,CA,California,San Bernardino County,West,34.12834,-117.20865
+161,CA,California,Orange County,West,33.74557,-117.86783
+162,CA,California,Riverside County,West,33.96358,-117.56418
+163,IL,Illinois,Will County/DuPage County,Midwest,41.74917,-88.16202
+164,VA,Virginia,Virginia Beach city,South,36.85293,-75.97799
+165,IN,Indiana,Clark County,Midwest,38.31459,-85.73894
+166,WA,Washington,King County,West,47.67399,-122.12151
+167,CA,California,Orange County,West,33.75918,-118.00673
+168,IL,Illinois,Cook County,Midwest,41.51591,-87.60098
+169,FL,Florida,Lee County,South,26.33981,-81.7787
+170,IN,Indiana,Lake County,Midwest,41.61329,-87.47085
+171,CA,California,Marin County,West,38.10742,-122.5697
+172,IN,Indiana,Allen County,Midwest,41.05238,-85.16209
+173,WA,Washington,King County,West,47.32232,-122.31262
+174,MA,Massachusetts,Essex County,Northeast,42.52787,-70.92866
+175,TX,Texas,Harris County,South,29.69106,-95.2091
+176,IL,Illinois,Cook County,Midwest,41.88503,-87.7845
+177,NJ,New Jersey,Monmouth County,Northeast,40.18205,-74.19852
+178,CA,California,San Bernardino County,West,34.0739,-117.31365
+179,NY,New York,Westchester County,Northeast,40.9126,-73.83708
+180,NJ,New Jersey,Middlesex County,Northeast,40.48622,-74.45182
+181,IN,Indiana,Tippecanoe County,Midwest,40.4167,-86.87529
+182,FL,Florida,Pinellas County,South,28.07807,-82.76371
+183,CA,California,Orange County,West,33.86751,-117.99812
+184,IN,Indiana,Marion County,Midwest,39.77186,-86.26094
+185,OK,Oklahoma,Oklahoma County,South,35.65283,-97.4781
+186,FL,Florida,Flagler County,South,29.58497,-81.20784
+187,WA,Washington,Franklin County,West,46.23958,-119.10057
+188,OK,Oklahoma,Cleveland County,South,35.33951,-97.4867
+189,NE,Nebraska,Sarpy County,Midwest,41.13667,-95.89084
+190,TX,Texas,Fort Bend County/Harris County,South,29.56294,-95.536
+191,IL,Illinois,Cook County,Midwest,42.04114,-87.69006
+192,CA,California,Madera County,West,36.96134,-120.06072
+193,VA,Virginia,Portsmouth city,South,36.83543,-76.29827
+194,OH,Ohio,Butler County,Midwest,39.34021,-84.41716
+195,AR,Arkansas,Washington County/Benton County,South,36.19007,-94.15943
+196,CA,California,Riverside County,West,33.95333,-117.39611
+197,CA,California,San Mateo County,West,37.48522,-122.23635
+198,IN,Indiana,St. Joseph County,Midwest,41.68338,-86.25001
+199,CA,California,Los Angeles County,West,33.98168,-118.22507
+200,CT,Connecticut,New Haven County,Northeast,41.27065,-72.94705
+201,MO,Missouri,Christian County/Greene County,Midwest,37.19415,-93.2913
+202,TN,Tennessee,Shelby County,South,35.20453,-89.87398
+203,IN,Indiana,Marion County,Midwest,39.8716,-86.01156
+204,CA,California,Santa Clara County,West,37.35411,-121.95524
+205,TX,Texas,Harrison County/Gregg County,South,32.51934,-94.76459
+206,IA,Iowa,Linn County,Midwest,42.00833,-91.64407
+207,NY,New York,Bronx County,Northeast,40.83722,-73.88611
+208,IL,Illinois,Cook County,Midwest,42.11125,-88.0644
+209,TX,Texas,Dallas County,South,32.58986,-96.85695
+210,MI,Michigan,Oakland County,Midwest,42.66198,-83.38792
+211,IA,Iowa,Scott County,Midwest,41.52364,-90.57764
+212,IL,Illinois,Cook County,Midwest,42.08836,-87.98063
+213,TX,Texas,Jones County/Taylor County,South,32.45451,-99.73815
+214,MI,Michigan,Macomb County,Midwest,42.59034,-82.91695
+215,UT,Utah,Cache County,West,41.73549,-111.83439
+216,TX,Texas,Cameron County,South,25.90175,-97.49748
+217,CT,Connecticut,New Haven County,Northeast,41.53678,-72.79454
+218,CT,Connecticut,New Haven County,Northeast,41.22509,-73.06111
+219,CA,California,San Francisco County,West,37.775,-122.41944
+220,AL,Alabama,Limestone County/Morgan County,South,34.57332,-86.99214
+221,NY,New York,Rockland County,Northeast,41.13418,-73.96573
+222,SC,South Carolina,Berkeley County/Charleston County,South,32.81793,-79.95896
+223,DE,Delaware,New Castle County,South,39.74595,-75.54659
+224,NJ,New Jersey,Middlesex County,Northeast,40.40463,-74.30854
+225,IL,Illinois,Cook County/DuPage County,Midwest,41.83755,-87.68184
+226,OR,Oregon,Deschutes County,West,44.05817,-121.31531
+227,IL,Illinois,McLean County,Midwest,40.53839,-88.98528
+228,IL,Illinois,DuPage County,Midwest,41.7543,-87.97753
+229,FL,Florida,Sarasota County,South,27.33643,-82.53065
+230,NJ,New Jersey,Ocean County,Northeast,39.99426,-74.16615
+231,FL,Florida,Lee County,South,26.62535,-81.6248
+232,OH,Ohio,Trumbull County/Mahoning County,Midwest,41.0991,-80.6459
+233,CA,California,Sonoma County,West,38.23242,-122.63665
+234,MI,Michigan,Kent County,Midwest,42.96336,-85.66809
+235,CO,Colorado,Jefferson County/Adams County,West,39.88219,-105.06443
+236,UT,Utah,Salt Lake County,West,40.66772,-111.93883
+237,CA,California,Orange County,West,33.64697,-117.68922
+238,WA,Washington,Yakima County,West,46.60207,-120.5059
+239,MN,Minnesota,Ramsey County,Midwest,44.94441,-93.09327
+240,MI,Michigan,Macomb County,Midwest,42.67403,-82.91677
+241,MD,Maryland,Frederick County,South,39.41427,-77.41054
+242,CT,Connecticut,Fairfield County,Northeast,41.18739,-73.19576
+243,TN,Tennessee,Davidson County,South,36.16913,-86.78479
+244,CA,California,Los Angeles County,West,33.94001,-118.13257
+245,IL,Illinois,Cook County,Midwest,42.10881,-87.83476
+246,NY,New York,Rockland County,Northeast,41.05369,-73.94809
+247,CT,Connecticut,Hartford County,Northeast,41.67176,-72.94927
+248,IA,Iowa,Plymouth County/Woodbury County,Midwest,42.49567,-96.39053
+249,IL,Illinois,McLean County,Midwest,40.4842,-88.99369
+250,KS,Kansas,Shawnee County,Midwest,39.04833,-95.67804
+251,CT,Connecticut,Fairfield County,Northeast,41.18454,-73.13317
+252,MD,Maryland,Charles County,South,38.62456,-76.93914
+253,CA,California,Solano County,West,38.35658,-121.98774
+254,CA,California,San Diego County,West,32.79477,-116.96253
+255,TX,Texas,Galveston County/Harris County,South,29.49006,-95.10909
+256,CA,California,Orange County,West,33.52253,-117.70755
+257,MT,Montana,Missoula County,West,46.87215,-113.994
+258,TX,Texas,Hidalgo County,South,26.20341,-98.23001
+259,CO,Colorado,Adams County,West,39.80832,-104.93387
+260,VA,Virginia,Loudoun County,South,39.11566,-77.5636
+261,SC,South Carolina,York County,South,34.92487,-81.02508
+262,IL,Illinois,Cook County,Midwest,41.88716,-87.78994
+263,NY,New York,Onondaga County,Northeast,43.04812,-76.14742
+264,PA,Pennsylvania,Lackawanna County,Northeast,41.40897,-75.66241
+265,ID,Idaho,Canyon County,West,43.66294,-116.68736
+266,CA,California,Los Angeles County,West,33.95474,-118.21202
+267,IL,Illinois,Cook County/Kane County,Midwest,42.03964,-88.32171
+268,CA,California,Los Angeles County,West,33.98307,-118.09674
+269,CA,California,Kings County,West,36.32745,-119.64568
+270,IN,Indiana,St. Joseph County,Midwest,41.64717,-86.13333
+271,CA,California,Marin County,West,37.97361,-122.53111
+272,WI,Wisconsin,Dane County,Midwest,43.07305,-89.40123
+273,IL,Illinois,DuPage County,Midwest,41.86177,-87.9761
+274,AL,Alabama,Dale County/Houston County/Henry County,South,31.2337,-85.40682
+275,IL,Illinois,Lake County,Midwest,42.28417,-87.94521
+276,FL,Florida,Miami-Dade County,South,25.72149,-80.26838
+277,TX,Texas,Fort Bend County/Harris County/Montgomery County,South,29.78664,-95.3909
+278,PA,Pennsylvania,Montgomery County,Northeast,40.11242,-75.11564
+279,CA,California,San Diego County,West,32.71533,-117.15726
+280,CA,California,Orange County,West,33.66946,-117.82311
+281,AR,Arkansas,Washington County,South,36.06258,-94.15743
+282,IA,Iowa,Johnson County,Midwest,41.66113,-91.53017
+283,CA,California,Los Angeles County,West,34.39166,-118.54259
+284,WA,Washington,Pierce County,West,47.14121,-122.27012
+285,TX,Texas,Williamson County/Travis County,South,30.51457,-97.81922
+286,NV,Nevada,Washoe County,West,39.52963,-119.8138
+287,CA,California,Los Angeles County,West,34.57943,-118.11646
+288,CT,Connecticut,New Haven County,Northeast,41.53815,-72.80704
+289,OH,Ohio,Delaware County/Franklin County/Fairfield County,Midwest,39.98524,-82.98477
+290,OH,Ohio,Montgomery County,Midwest,39.62657,-84.26395
+291,FL,Florida,Broward County,South,26.23786,-80.12477
+292,IL,Illinois,Will County,Midwest,41.59381,-88.19968
+293,MA,Massachusetts,Bristol County,Northeast,41.63622,-70.93421
+294,OK,Oklahoma,Oklahoma County,South,35.44951,-97.3967
+295,MA,Massachusetts,Middlesex County,Northeast,42.37649,-71.23561
+296,CA,California,San Joaquin County,West,37.73965,-121.42522
+297,GA,Georgia,Fulton County,South,33.92427,-84.37854
+298,MD,Maryland,Howard County,South,39.26733,-76.79831
+299,FL,Florida,Broward County,South,26.21286,-80.24977
+300,KY,Kentucky,Warren County,South,36.99032,-86.4436
+301,CA,California,Contra Costa County,West,37.93187,-121.69579
+302,CA,California,Orange County,West,33.74585,-117.82617
+303,WA,Washington,Whatcom County,West,48.75955,-122.48822
+304,UT,Utah,Weber County,West,41.223,-111.97383
+305,WI,Wisconsin,Milwaukee County/Washington County/Waukesha County,Midwest,43.06335,-87.9667
+306,RI,Rhode Island,Kent County,Northeast,41.7001,-71.41617
+307,OK,Oklahoma,Cleveland County,South,35.22257,-97.43948
+308,WI,Wisconsin,Kenosha County,Midwest,42.58474,-87.82119
+309,CA,California,San Bernardino County,West,34.10834,-117.28977
+310,CA,California,Riverside County,West,34.00259,-117.46761
+311,FL,Florida,Broward County,South,26.06287,-80.2331
+312,MA,Massachusetts,Norfolk County,Northeast,42.25288,-71.00227
+313,FL,Florida,Broward County,South,26.14036,-80.21338
+314,FL,Florida,Miami-Dade County,South,25.81954,-80.35533
+315,FL,Florida,Pinellas County,South,27.90947,-82.78732
+316,IA,Iowa,Warren County/Polk County,Midwest,41.57259,-93.61024
+317,SC,South Carolina,Lexington County/Richland County,South,34.0291,-80.89804
+318,NV,Nevada,Clark County,West,36.02525,-115.24194
+319,NC,North Carolina,Cabarrus County,South,35.40875,-80.57951
+320,IN,Indiana,Marion County,Midwest,39.87632,-86.14291
+321,ME,Maine,Cumberland County,Northeast,43.66147,-70.25533
+322,NY,New York,Nassau County,Northeast,40.70621,-73.61874
+323,IL,Illinois,Cook County,Midwest,42.02911,-88.08951
+324,TX,Texas,Hidalgo County,South,26.21591,-98.32529
+325,FL,Florida,Palm Beach County,South,26.52535,-80.06643
+326,NC,North Carolina,Durham County/Wake County,South,35.8306,-78.64177
+327,TX,Texas,Cameron County,South,26.19063,-97.6961
+328,FL,Florida,Palm Beach County,South,26.35869,-80.0831
+329,GA,Georgia,Peach County/Houston County,South,32.5971,-83.65394
+330,AR,Arkansas,Pulaski County,South,34.76954,-92.26709
+331,FL,Florida,Volusia County,South,28.90054,-81.26367
+332,NY,New York,Nassau County,Northeast,40.80049,-73.51056
+333,MD,Maryland,Baltimore County,South,39.4015,-76.60191
+334,MI,Michigan,Macomb County,Midwest,42.49698,-82.88881
+335,CT,Connecticut,Fairfield County,Northeast,41.05343,-73.53873
+336,IN,Indiana,Johnson County,Midwest,39.58265,-86.095
+337,TN,Tennessee,Shelby County,South,35.14953,-90.04898
+338,CA,California,Los Angeles County,West,33.88835,-118.30896
+339,IL,Illinois,Cook County,Midwest,42.0299,-87.97733
+340,IL,Illinois,Cook County,Midwest,41.86472,-87.87119
+341,NJ,New Jersey,Monmouth County,Northeast,40.40709,-74.06984
+342,IN,Indiana,Delaware County,Midwest,40.19338,-85.38636
+343,MI,Michigan,Genesee County,Midwest,43.01253,-83.68746
+344,LA,Louisiana,East Baton Rouge Parish,South,30.45075,-91.15455
+345,MI,Michigan,Washtenaw County,Midwest,42.21368,-83.59918
+346,CA,California,Contra Costa County,West,37.77993,-121.97802
+347,FL,Florida,Manatee County,South,27.49893,-82.57482
+348,IL,Illinois,Cook County,Midwest,42.02803,-88.20364
+349,MA,Massachusetts,Middlesex County,Northeast,42.27926,-71.41617
+350,MA,Massachusetts,Plymouth County,Northeast,41.89806,-70.62417
+351,OH,Ohio,Cuyahoga County,Midwest,41.4995,-81.69541
+352,CA,California,San Bernardino County,West,34.50083,-117.18588
+353,IL,Illinois,Cook County,Midwest,41.84559,-87.75394
+354,CA,California,Butte County,West,39.72849,-121.83748
+355,MI,Michigan,Macomb County,Midwest,42.6731,-83.03656
+356,FL,Florida,Orange County,South,28.55778,-81.4534
+357,MD,Maryland,Montgomery County,South,39.14344,-77.20137
+358,IL,Illinois,Cook County,Midwest,42.06642,-87.93729
+359,NV,Nevada,Clark County,West,36.21108,-115.07306
+360,CA,California,Los Angeles County,West,33.84918,-118.38841
+361,CA,California,San Bernardino County,West,34.01223,-117.68894
+362,CT,Connecticut,Fairfield County,Northeast,41.16704,-73.20483
+363,NY,New York,Richmond County/Queens County/Kings County/New York County/Bronx County,Northeast,40.66347,-73.9387
+364,VA,Virginia,Lynchburg city,South,37.41375,-79.14225
+365,AZ,Arizona,Pima County,West,32.22174,-110.92648
+366,OH,Ohio,Clark County,Midwest,39.92423,-83.80882
+367,IN,Indiana,Tippecanoe County,Midwest,40.42871,-86.85277
+368,MI,Michigan,Oakland County,Midwest,42.48948,-83.14465
+369,NC,North Carolina,Buncombe County,South,35.60095,-82.55402
+370,NC,North Carolina,Gaston County,South,35.26208,-81.1873
+371,WA,Washington,Snohomish County,West,47.97898,-122.20208
+372,AR,Arkansas,Faulkner County,South,35.0887,-92.4421
+373,VA,Virginia,Norfolk city,South,36.84681,-76.28522
+374,CA,California,Orange County,West,33.83529,-117.9145
+375,CA,California,Sacramento County,West,38.61713,-121.32828
+376,FL,Florida,Miami-Dade County,South,25.77427,-80.19366
+377,NY,New York,Albany County,Northeast,42.65258,-73.75623
+378,FL,Florida,Orange County,South,28.53834,-81.37924
+379,IL,Illinois,Macon County,Midwest,39.8463,-88.95822
+380,NY,New York,Rockland County,Northeast,41.14077,-74.10498
+381,MT,Montana,Cascade County,West,47.50024,-111.30081
+382,NM,New Mexico,Sandoval County/Bernalillo County,West,35.28507,-106.69887
+383,NV,Nevada,Clark County,West,36.10803,-115.245
+384,CA,California,Sonoma County,West,38.44047,-122.71443
+385,NY,New York,Broome County,Northeast,42.12662,-76.03324
+386,CA,California,Santa Clara County,West,37.323,-122.03218
+387,CT,Connecticut,Fairfield County,Northeast,41.39482,-73.45401
+388,OR,Oregon,Lane County,West,44.04624,-123.02203
+389,CO,Colorado,Douglas County,West,39.55388,-104.96943
+390,TX,Texas,Smith County,South,32.35126,-95.30106
+391,CT,Connecticut,Hartford County,Northeast,41.76593,-72.68158
+392,NJ,New Jersey,Hudson County,Northeast,40.77955,-74.02375
+393,NC,North Carolina,Davidson County/Randolph County/Forsyth County/Guilford County,South,35.98998,-79.99047
+394,NY,New York,Nassau County,Northeast,40.80336,-73.6784
+395,FL,Florida,Osceola County,South,28.29196,-81.40757
+396,PA,Pennsylvania,Lehigh County/Northampton County,Northeast,40.62642,-75.3679
+397,NM,New Mexico,Bernalillo County,West,35.08449,-106.65114
+398,TX,Texas,Denton County/Dallas County,South,33.04655,-96.98183
+399,CA,California,Sutter County,West,39.14045,-121.61691
+400,MA,Massachusetts,Middlesex County,Northeast,42.4251,-71.06616
+401,GA,Georgia,Clarke County,South,33.95219,-83.36715
+402,CA,California,Tulare County,West,36.20773,-119.34734
+403,MD,Maryland,Montgomery County,South,38.99067,-77.02609
+404,MN,Minnesota,Hennepin County,Midwest,45.01052,-93.45551
+405,CA,California,San Bernardino County,West,33.9938,-117.75888
+406,RI,Rhode Island,Providence County,Northeast,41.82399,-71.41283
+407,MO,Missouri,Cass County/Jackson County,Midwest,38.9216,-94.38476
+408,IL,Illinois,Cook County,Midwest,41.93807,-87.8685
+409,IN,Indiana,Howard County,Midwest,40.48643,-86.1336
+410,IA,Iowa,Madison County/Warren County/Dallas County/Polk County,Midwest,41.54994,-93.78135
+411,IN,Indiana,Hamilton County,Midwest,39.96392,-85.92802
+412,CA,California,Los Angeles County,West,34.09529,-118.12701
+413,MS,Mississippi,Harrison County,South,30.36742,-89.09282
+414,TX,Texas,Johnson County/Tarrant County/Ellis County,South,32.56919,-97.12053
+415,CA,California,Los Angeles County,West,34.69804,-118.13674
+416,NY,New York,Erie County,Northeast,43.02033,-78.88032
+417,GA,Georgia,DeKalb County,South,33.85844,-84.3402
+418,IL,Illinois,Kane County,Midwest,42.11043,-88.30135
+419,IL,Illinois,McLean County,Midwest,40.5142,-88.99063
+420,NM,New Mexico,DoÃƒÂ±a Ana County,West,32.31232,-106.77834
+421,IN,Indiana,Marion County,Midwest,39.87571,-86.26625
+422,DC,District of Columbia,District of Columbia,South,38.9041,-77.01723
+423,CA,California,Sacramento County,West,38.67796,-121.17606
+424,MN,Minnesota,Hennepin County,Midwest,45.09413,-93.35634
+425,FL,Florida,Miami-Dade County,South,25.67927,-80.31727
+426,TN,Tennessee,Sumner County,South,36.30477,-86.62
+427,FL,Florida,Miami-Dade County,South,25.89009,-80.18671
+428,OH,Ohio,Lucas County,Midwest,41.66394,-83.55521
+429,FL,Florida,Alachua County,South,29.65163,-82.32483
+430,CA,California,Kern County,West,35.76884,-119.24705
+431,IN,Indiana,Marion County.,Midwest,39.778,-86.14584
+432,IL,Illinois,Cook County,Midwest,41.51529,-87.73338
+433,MI,Michigan,Wayne County,Midwest,42.36837,-83.35271
+434,FL,Florida,Broward County,South,25.98731,-80.23227
+435,CA,California,Napa County,West,38.29714,-122.28553
+436,FL,Florida,Broward County,South,26.00315,-80.22394
+437,MN,Minnesota,Hennepin County,Midwest,44.97997,-93.26384
+438,WA,Washington,King County,West,47.47038,-122.34679
+439,MA,Massachusetts,Middlesex County,Northeast,42.41843,-71.10616
+440,MI,Michigan,Macomb County,Midwest,42.58031,-83.0302
+441,TX,Texas,Kaufman County/Dallas County,South,32.76288,-96.58877
+442,MI,Michigan,Oakland County,Midwest,42.63892,-83.29105
+443,NY,New York,Suffolk County,Northeast,40.84989,-72.46349
+444,NJ,New Jersey,Middlesex County,Northeast,40.50399,-74.34941
+445,MA,Massachusetts,Essex County,Northeast,42.7762,-71.07728
+446,MA,Massachusetts,Norfolk County,Northeast,42.20668,-70.94585000000001
+447,FL,Florida,Palm Beach County,South,26.65868,-80.24144
+448,KS,Kansas,Wyandotte County,Midwest,39.11417,-94.62746
+449,IL,Illinois,Lake County,Midwest,42.36363,-87.84479
+450,AZ,Arizona,Pinal County,West,33.1911,-111.528
+451,CA,California,Orange County,West,33.61891,-117.92895
+452,CA,California,Contra Costa County,West,38.02798,-121.88468
+453,CA,California,San Joaquin County,West,37.9577,-121.29078
+454,CA,California,Los Angeles County,West,34.14251,-118.25508
+455,MN,Minnesota,Dakota County,Midwest,44.73191,-93.21772
+456,NJ,New Jersey,Hudson County,Northeast,40.79416,-74.02495
+457,IL,Illinois,Cook County,Midwest,41.71087,-87.75811
+458,FL,Florida,St. Lucie County,South,27.29393,-80.35033
+459,CA,California,San Diego County,West,33.20004,-117.24254
+460,CA,California,Los Angeles County,West,34.13973,-118.03534
+461,TX,Texas,Rockwall County/Collin County/Dallas County,South,32.90983,-96.63033
+462,IL,Illinois,Sangamon County,Midwest,39.80172,-89.64371
+463,NY,New York,Erie County,Northeast,42.88645,-78.87837
+464,PA,Pennsylvania,Lehigh County,Northeast,40.60843,-75.49018
+465,IL,Illinois,DuPage County,Midwest,41.86614,-88.10701
+466,TX,Texas,Jefferson County,South,30.08605,-94.10185
+467,PA,Pennsylvania,Bucks County,Northeast,40.15511,-74.82877
+468,IL,Illinois,Lake County,Midwest,42.19779,-87.94553
+469,FL,Florida,Hillsborough County,South,28.01057,-82.57732
+470,CT,Connecticut,Hartford County,Northeast,41.7607,-72.60765
+471,MN,Minnesota,Hennepin County,Midwest,45.07246,-93.45579
+472,CA,California,San Bernardino County,West,34.09223,-117.43505
+473,CA,California,Riverside County,West,33.77974,-116.46529
+474,CA,California,Contra Costa County,West,37.90631,-122.06496
+475,CA,California,Tulare County,West,36.33023,-119.29206
+476,IL,Illinois,Will County,Midwest,41.50829,-88.08257
+477,MN,Minnesota,Hennepin County,Midwest,44.8408,-93.29828
+478,CO,Colorado,Adams County/Weld County,West,39.91942,-104.94281
+479,NJ,New Jersey,Essex County,Northeast,40.76732,-74.20487
+480,FL,Florida,Broward County,South,26.25175,-80.17894
+481,RI,Rhode Island,Providence County,Northeast,41.77982,-71.43728
+482,TX,Texas,Lubbock County,South,33.57786,-101.85517
+483,IL,Illinois,DuPage County,Midwest,41.948,-87.98061
+484,CT,Connecticut,Hartford County,Northeast,41.78232,-72.61203
+485,MO,Missouri,Buchanan County,Midwest,39.76861,-94.84663
+486,WA,Washington,Spokane County,West,47.67323,-117.23937
+487,CO,Colorado,Pueblo County,West,38.25445,-104.60914
+488,TX,Texas,Hidalgo County,South,26.30174,-98.16334
+489,CA,California,Stanislaus County,West,37.6391,-120.99688
+490,MD,Maryland,Montgomery County,South,38.98067,-77.10026
+491,NJ,New Jersey,Essex County,Northeast,40.72386,-74.23252
+492,TN,Tennessee,Hamilton County,South,35.04563,-85.30968
+493,IL,Illinois,Cook County,Midwest,41.84333,-87.79093
+494,IL,Illinois,DuPage County,Midwest,41.94563,-88.08462
+495,PA,Pennsylvania,Delaware County,Northeast,39.94901,-75.28912
+496,CA,California,Yolo County,West,38.58046,-121.53023
+497,WA,Washington,Pierce County,West,47.25288,-122.44429
+498,KS,Kansas,Johnson County,Midwest,38.8814,-94.81913
+499,MT,Montana,Yellowstone County,West,45.78329,-108.50069
+500,MI,Michigan,Wayne County,Midwest,42.3242,-83.40021
+501,TN,Tennessee,Madison County,South,35.61452,-88.81395
+502,GA,Georgia,Lowndes County,South,30.8327,-83.27849
+503,CA,California,Ventura County,West,34.21639,-119.0376
+504,FL,Florida,Lee County,South,26.64063,-81.87231
+505,WA,Washington,King County,West,47.68149,-122.20874
+506,AR,Arkansas,Craighead County,South,35.8423,-90.70428
+507,MS,Mississippi,DeSoto County,South,34.98898,-90.01259
+508,AZ,Arizona,Maricopa County/Yavapai County,West,33.7862,-112.30801
+509,NJ,New Jersey,Hudson County,Northeast,40.78788,-74.01431
+510,FL,Florida,Brevard County,South,28.08363,-80.60811
+511,GA,Georgia,Fulton County,South,34.07538,-84.29409
+512,MI,Michigan,Ottawa County,Midwest,42.90538,-85.8446
+513,MD,Maryland,Montgomery County,South,39.17316,-77.27165
+514,WI,Wisconsin,La Crosse County,Midwest,43.80136,-91.23958
+515,OR,Oregon,Washington County,West,45.48706,-122.80371
+516,IL,Illinois,Macon County,Midwest,39.84031,-88.9548
+517,CA,California,Santa Clara County,West,37.38605,-122.08385
+518,WA,Washington,Pierce County,West,47.17176,-122.51846
+519,NJ,New Jersey,Ocean County,Northeast,40.06177,-74.10956
+520,NY,New York,Kings County,Northeast,40.62472,-73.95222
+521,OH,Ohio,Hamilton County,Midwest,39.162,-84.45689
+522,CA,California,San Diego County,West,33.11921,-117.08642
+523,IN,Indiana,Floyd County,Midwest,38.31527,-85.83185
+524,CA,California,Alameda County,West,37.68187,-121.76801
+525,CA,California,Riverside County,West,33.72224,-116.37446
+526,MI,Michigan,Oakland County,Midwest,42.47337,-83.22187
+527,IL,Illinois,Cook County,Midwest,42.10987,-87.94458
+528,CA,California,Sacramento County,West,38.70712,-121.28106
+529,IL,Illinois,Cook County,Midwest,42.03336,-87.73339
+530,FL,Florida,Leon County,South,30.43826,-84.28073
+531,IN,Indiana,Vigo County,Midwest,39.4667,-87.41391
+532,CA,California,Contra Costa County,West,37.97798,-122.03107
+533,MA,Massachusetts,Bristol County,Northeast,41.70149,-71.15505
+534,TX,Texas,Tarrant County/Denton County,South,33.0379,-97.11287
+535,MI,Michigan,Kalamazoo County,Midwest,42.29171,-85.58723
+536,CA,California,Alameda County,West,37.6941,-122.08635
+537,CT,Connecticut,New Haven County,Northeast,41.310810000000004,-72.92495
+538,CA,California,Los Angeles County,West,33.90224,-118.08173
+539,SC,South Carolina,Dorchester County/Berkeley County/Charleston County,South,32.91782,-80.06503
+540,WA,Washington,Clark County,West,45.63873,-122.66149
+541,KS,Kansas,Johnson County,Midwest,38.98223,-94.67079
+542,CA,California,Riverside County,West,33.87529,-117.56644
+543,MN,Minnesota,Hennepin County,Midwest,44.88969,-93.34995
+544,NJ,New Jersey,Camden County,Northeast,39.92595,-75.11962
+545,IL,Illinois,Champaign County,Midwest,40.11642,-88.24338
+546,ID,Idaho,Ada County,West,43.61211,-116.39151
+547,MI,Michigan,Oakland County,Midwest,42.60559,-83.14993
+548,AL,Alabama,Montgomery County,South,32.36681,-86.29997
+549,TX,Texas,Harris County,South,30.07994,-95.41716
+550,FL,Florida,Miami-Dade County,South,25.77288,-80.34783
+551,CO,Colorado,Adams County/Douglas County/Arapahoe County,West,39.688,-104.68974
+552,CA,California,Santa Cruz County,West,36.97412,-122.0308
+553,GA,Georgia,Cobb County,South,33.9526,-84.54993
+554,CA,California,Riverside County,West,33.55391,-117.21392
+555,OH,Ohio,Cuyahoga County,Midwest,41.40477,-81.72291
+556,UT,Utah,Salt Lake County,West,40.69161,-112.00105
+557,IL,Illinois,DuPage County,Midwest,41.94095,-88.20373
+558,MA,Massachusetts,Middlesex County,Northeast,42.63342,-71.31617
+559,NY,New York,Suffolk County,Northeast,40.91922,-73.17912
+560,CA,California,Tulare County,West,36.06523,-119.01677
+561,CA,California,Los Angeles County,West,33.9164,-118.35257
+562,MA,Massachusetts,Hampden County,Northeast,42.1487,-72.60787
+563,VA,Virginia,Roanoke city,South,37.27097,-79.94143
+564,FL,Florida,Hillsborough County,South,27.94752,-82.45843
+565,CA,California,Orange County,West,33.64113,-117.91867
+566,PA,Pennsylvania,Berks County,Northeast,40.33565,-75.92687
+567,PA,Pennsylvania,Bucks County,Northeast,40.10622,-74.94364
+568,CO,Colorado,Boulder County/Weld County,West,40.16984,-105.09901
+569,NC,North Carolina,Guilford County,South,36.07264,-79.79198
+570,MN,Minnesota,Dakota County,Midwest,44.64969,-93.24272
+571,WA,Washington,Snohomish County,West,48.05176,-122.17708
+572,CA,California,San Bernardino County,West,34.05557,-117.18254
+573,CT,Connecticut,Fairfield County,Northeast,41.39874,-73.4781
+574,MI,Michigan,Wayne County,Midwest,42.24087,-83.26965
+575,KY,Kentucky,Fayette County,South,38.0498,-84.45855
+576,TX,Texas,Tom Green County,South,31.46377,-100.43704
+577,NY,New York,Monroe County,Northeast,43.15478,-77.61556
+578,IL,Illinois,Kendall County,Midwest,41.67577,-88.31799
+579,CA,California,Kern County,West,35.37329,-119.01871
+580,MN,Minnesota,Olmsted County,Midwest,44.02163,-92.4699
+581,IL,Illinois,Cook County,Midwest,42.1014,-87.74493
+582,NJ,New Jersey,Ocean County,Northeast,39.95373,-74.19792
+583,CT,Connecticut,Fairfield County,Northeast,41.17594,-73.27205
+584,TX,Texas,Brazos County,South,30.67436,-96.36996
+585,TX,Texas,Collin County/Denton County,South,33.05077,-96.74794
+586,TX,Texas,Galveston County,South,29.30139,-94.79778
+587,MD,Maryland,Baltimore County,South,39.25066,-76.52052
+588,NV,Nevada,Clark County,West,36.19886,-115.1175
+589,NY,New York,Oneida County,Northeast,43.1009,-75.23266
+590,NC,North Carolina,Onslow County,South,34.75405,-77.43024
+591,TX,Texas,Orange County/Jefferson County,South,29.8334,-93.96632
+592,OH,Ohio,Summit County,Midwest,41.08144,-81.51901
+593,NY,New York,Westchester County,Northeast,40.93121,-73.89875
+594,IN,Indiana,Madison County,Midwest,40.08977,-85.68945
+595,TX,Texas,Webb County,South,27.50641,-99.50754
+596,TX,Texas,Hays County/Williamson County/Travis County,South,30.30394,-97.75436
+597,OH,Ohio,Stark County,Midwest,40.79895,-81.37845
+598,FL,Florida,Polk County,South,28.03947,-81.9498
+599,TX,Texas,El Paso County,South,31.75872,-106.48693
+600,TX,Texas,Collin County,South,33.10317,-96.67055
+601,OR,Oregon,Washington County,West,45.49428,-122.86705
+602,NY,New York,Richmond County,Northeast,40.57628,-74.14484
+603,TX,Texas,Harris County/Montgomery County,South,30.17256,-95.50981
+604,WI,Wisconsin,Rock County,Midwest,42.68279,-89.01872
+605,CT,Connecticut,Hartford County,Northeast,41.66121,-72.77954
+606,MA,Massachusetts,Suffolk County,Northeast,42.35843,-71.05977
+607,CA,California,Ventura County,West,34.17056,-118.8375
+608,TN,Tennessee,Knox County,South,35.96064,-83.92074
+609,CA,California,Riverside County,West,33.49364,-117.14836
+610,MN,Minnesota,Washington County,Midwest,44.92386,-92.95938
+611,IL,Illinois,Cook County,Midwest,41.60127,-87.60032
+612,FL,Florida,Lee County,South,26.56285,-81.94953
+613,WA,Washington,King County,West,47.48288,-122.21707
+614,MI,Michigan,Wayne County,Midwest,42.30754,-83.48577
+615,NC,North Carolina,Cumberland County,South,35.05266,-78.87836
+616,MI,Michigan,Washtenaw County,Midwest,42.27087,-83.72633
+617,FL,Florida,Miami-Dade County,South,25.79065,-80.13005
+618,IL,Illinois,Cook County,Midwest,42.03209,-87.75778
+619,CA,California,Los Angeles County,West,33.83141,-118.28202
+620,CO,Colorado,Larimer County,West,40.39776,-105.07498
+621,AZ,Arizona,Yuma County,West,32.72532,-114.6244
+622,CA,California,San Diego County,West,32.67806,-117.09917
+623,NC,North Carolina,Edgecombe County/Nash County,South,35.96851,-77.80829
+624,CT,Connecticut,Hartford County,Northeast,41.67655,-72.78616
+625,SC,South Carolina,Greenville County,South,34.85262,-82.39401
+626,CO,Colorado,Boulder County,West,40.01499,-105.27055
+627,VA,Virginia,Alexandria city,South,38.80484,-77.04692
+628,CA,California,Orange County,West,33.56504,-117.72712
+629,IA,Iowa,Dubuque County,Midwest,42.50056,-90.66457
+630,CA,California,Santa Clara County,West,37.44188,-122.14302
+631,CA,California,Yolo County,West,38.67852,-121.7733
+632,NY,New York,Erie County,Northeast,42.90339,-78.75475
+633,FL,Florida,Palm Beach County,South,26.46146,-80.07282
+634,CA,California,San Mateo County,West,37.70583,-122.46194
+635,MN,Minnesota,Hennepin County,Midwest,44.85469,-93.47079
+636,IN,Indiana,Hamilton County,Midwest,40.05365,-86.02173
+637,NJ,New Jersey,Union County,Northeast,40.66399,-74.2107
+638,FL,Florida,Palm Beach County,South,26.71534,-80.05337
+639,CA,California,San Bernardino County,West,34.1064,-117.59311
+640,TX,Texas,Tarrant County,South,32.8343,-97.2289
+641,CA,California,Riverside County,West,33.72835,-117.14642
+642,AZ,Arizona,Maricopa County,West,33.63059,-112.33322
+643,IL,Illinois,Cook County/Kane County,Midwest,42.06521,-88.153
+644,IN,Indiana,Tippecanoe County,Midwest,40.47811,-86.95599
+645,NC,North Carolina,Mecklenburg County,South,35.41069,-80.84285
+646,WA,Washington,King County,West,47.64177,-122.0804
+647,WA,Washington,Benton County,West,46.21125,-119.13723
+648,FL,Florida,Volusia County,South,29.13832,-80.99561
+649,NJ,New Jersey,Somerset County,Northeast,40.47687,-74.55045
+650,CA,California,Santa Clara County,West,37.42827,-121.90662
+651,CT,Connecticut,Fairfield County,Northeast,41.20569,-73.12799
+652,FL,Florida,Palm Beach County,South,26.82339,-80.13865
+653,PA,Pennsylvania,Erie County,Northeast,42.08594,-80.1199
+654,OR,Oregon,Marion County/Polk County,West,44.92371,-123.02319
+655,OR,Oregon,Benton County,West,44.56457,-123.26204
+656,CA,California,Alameda County,West,37.70215,-121.93579
+657,MN,Minnesota,Dakota County,Midwest,44.80413,-93.16689
+658,CT,Connecticut,Hartford County,Northeast,41.68158,-72.94075
+659,FL,Florida,Broward County,South,26.24453,-80.20644
+660,TN,Tennessee,Hawkins County/Sullivan County,South,36.51989,-82.54464
+661,NJ,New Jersey,Middlesex County,Northeast,40.50677,-74.26542
+662,ID,Idaho,Power County/Bannock County,West,42.87158,-112.46556
+663,IL,Illinois,McHenry County,Midwest,42.20028,-88.41561
+664,IN,Indiana,Lake County,Midwest,41.58337,-87.50004
+665,TX,Texas,Comal County/Guadalupe County,South,29.69931,-98.11513
+666,IN,Indiana,Lake County,Midwest,41.47812,-87.46166
+667,OH,Ohio,Greene County/Montgomery County,Midwest,39.69599,-84.15044
+668,IA,Iowa,Polk County,Midwest,41.72971,-93.60577
+669,FL,Florida,Duval County,South,30.33218,-81.65565
+670,MN,Minnesota,St. Louis County,Midwest,46.78327,-92.10658
+671,FL,Florida,Escambia County,South,30.42131,-87.21691
+672,IL,Illinois,Cook County,Midwest,41.77475,-87.8596
+673,CA,California,Yolo County,West,38.54491,-121.74052
+674,AZ,Arizona,Pinal County,West,32.8795,-111.75735
+675,CA,California,Los Angeles County,West,33.76696,-118.18923
+676,CA,California,Los Angeles County,West,34.08057,-118.07285
+677,PA,Pennsylvania,Bucks County,Northeast,40.12364,-74.86738
+678,CA,California,Los Angeles County,West,34.08529,-117.9609
+679,TX,Texas,Williamson County/Travis County,South,30.455,-97.60847
+680,NC,North Carolina,Forsyth County,South,36.09986,-80.24422
+681,AR,Arkansas,Pulaski County,South,34.74648,-92.28959
+682,TX,Texas,Bell County,South,31.11712,-97.7278
+683,IL,Illinois,Cook County,Midwest,42.1103,-88.03424
+684,TN,Tennessee,Rutherford County,South,35.84562,-86.39027
+685,MI,Michigan,Kent County,Midwest,42.86947,-85.64475
+686,VA,Virginia,Arlington County,South,38.890390000000004,-77.08414
+687,AZ,Arizona,Maricopa County,West,33.4356,-112.3496
+688,MO,Missouri,St. Charles County,Midwest,38.81061,-90.69985
+689,NC,North Carolina,Chatham County/Wake County,South,35.78088,-78.81327
+690,CT,Connecticut,New Haven County,Northeast,41.55815,-73.0515
+691,MD,Maryland,Prince George's County,South,38.94278,-76.73028
+692,IL,Illinois,Lake County,Midwest,42.3748,-87.84882
+693,MA,Massachusetts,Worcester County,Northeast,42.26259,-71.80229
+694,CO,Colorado,Denver County,West,39.73915,-104.9847
+695,VA,Virginia,Newport News city,South,36.97876,-76.428
+696,TX,Texas,Hidalgo County,South,26.1948,-98.18362
+697,CA,California,San Diego County,West,33.15809,-117.35059
+698,TX,Texas,Aransas County/Kleberg County/Nueces County/San Patricio County,South,27.75425,-97.17339
+699,WA,Washington,King County,West,47.60621,-122.33207
+700,CA,California,San Bernardino County,West,34.06334,-117.65089
+701,NC,North Carolina,Pitt County,South,35.61266,-77.36635
+702,TX,Texas,Collin County/Denton County/Dallas County,South,32.98836,-96.89977
+703,CA,California,Los Angeles County,West,34.13612,-117.86534
+704,CA,California,Los Angeles County,West,33.96168,-118.35313
+705,UT,Utah,Utah County,West,40.2969,-111.69465
+706,CA,California,Los Angeles County,West,33.88946,-118.15979
+707,NJ,New Jersey,Passaic County,Northeast,40.94585,-74.24508
+708,FL,Florida,Sarasota County,South,27.04422,-82.23593
+709,OH,Ohio,Greene County,Midwest,39.72765,-84.03425
+710,KS,Kansas,Riley County/Pottawatomie County,Midwest,39.18831,-96.60586
+711,CA,California,San Diego County,West,32.96282,-117.03586
+712,CA,California,Orange County,West,33.42697,-117.61199
+713,WA,Washington,King County,West,47.61038,-122.20068
+714,ND,North Dakota,Burleigh County,Midwest,46.80833,-100.78374
+715,CA,California,Alameda County,West,37.87159,-122.27275
+716,WY,Wyoming,Laramie County,West,41.13998,-104.82025
+717,WI,Wisconsin,Waukesha County,Midwest,43.01168,-88.23148
+718,NJ,New Jersey,Mercer County,Northeast,40.21705,-74.74294
+719,FL,Florida,Pinellas County,South,27.97895,-82.76657
+720,FL,Florida,Miami-Dade County,South,25.94204,-80.2456
+721,IN,Indiana,Hamilton County,Midwest,39.97837,-86.11804
+722,UT,Utah,Salt Lake County,West,40.76078,-111.89105
+723,TX,Texas,Victoria County,South,28.80527,-97.0036
+724,CA,California,San Bernardino County,West,34.1064,-117.37032
+725,MD,Maryland,Baltimore city,South,39.29038,-76.61219
+726,ID,Idaho,Bonneville County,West,43.46658,-112.03414
+727,CO,Colorado,Jefferson County,West,39.70471,-105.08137
+728,NJ,New Jersey,Ocean County,Northeast,40.07706,-74.20037
+729,MI,Michigan,Macomb County,Midwest,42.49982,-83.00549
+730,OR,Oregon,Jackson County,West,42.32652,-122.87559
+731,NC,North Carolina,Durham County/Orange County/Wake County,South,35.98115,-78.90293
+732,AL,Alabama,Tuscaloosa County,South,33.20984,-87.56917
+733,KY,Kentucky,Daviess County,South,37.77422,-87.11333
+734,MI,Michigan,Oakland County,Midwest,42.56923,-83.38727
+735,TX,Texas,Tarrant County,South,32.73569,-97.10807
+736,FL,Florida,Orange County,South,28.5641,-81.2114
+737,MO,Missouri,St. Louis County,Midwest,38.78922,-90.32261
+738,FL,Florida,Miami-Dade County,South,25.8576,-80.27811
+739,NV,Nevada,Clark County,West,36.17497,-115.13722
+740,CT,Connecticut,Fairfield County,Northeast,41.04537,-73.63402
+741,CA,California,Riverside County,West,33.66808,-117.32726
+742,NV,Nevada,Washoe County,West,39.534909999999996,-119.75269
+743,NV,Nevada,Clark County,West,36.09719,-115.14666
+744,IL,Illinois,Cook County,Midwest,42.03353,-87.86441
+745,IL,Illinois,Peoria County,Midwest,40.69365,-89.58899
+746,WY,Wyoming,Natrona County,West,42.86663,-106.31308
+747,CA,California,Alameda County,West,37.76521,-122.24164
+748,IL,Illinois,Cook County,Midwest,41.68774,-87.85
+749,MI,Michigan,Oakland County,Midwest,42.48059,-83.47549
+750,NY,New York,Monroe County,Northeast,43.20981,-77.57206
+751,IN,Indiana,Allen County,Midwest,41.13925,-85.05898
+752,IN,Indiana,Allen County,Midwest,41.1306,-85.12886
+753,IL,Illinois,Cook County,Midwest,41.59859,-87.85041
+754,NJ,New Jersey,Passaic County,Northeast,40.85843,-74.16376
+755,IN,Indiana,Hamilton County,Midwest,39.95559,-86.01387
+756,AL,Alabama,Limestone County/Madison County,South,34.69901,-86.67298
+757,IL,Illinois,McHenry County,Midwest,42.19807,-88.27594
+758,MD,Maryland,Montgomery County,South,39.07955,-77.07303
+759,CA,California,San Bernardino County,West,34.53611,-117.29116
+760,MA,Massachusetts,Essex County,Northeast,42.70704,-71.16311
+761,IA,Iowa,Pottawattamie County,Midwest,41.26194,-95.86083
+762,TX,Texas,Montgomery County,South,30.31188,-95.45605
+763,VA,Virginia,Harrisonburg city,South,38.44957,-78.86892
+764,CT,Connecticut,New Haven County,Northeast,41.39733,-72.92223
+765,MD,Maryland,Anne Arundel County,South,39.16261,-76.62469
+766,UT,Utah,Utah County,West,40.23384,-111.65853
+767,CA,California,Fresno County,West,36.82523,-119.70292
+768,FL,Florida,Pinellas County,South,27.77086,-82.67927
+769,MD,Maryland,Howard County,South,39.24038,-76.83942
+770,NJ,New Jersey,Passaic County,Northeast,40.91677,-74.17181
+771,FL,Florida,Marion County,South,29.1872,-82.14009
+772,GA,Georgia,Cobb County,South,33.88399,-84.51438
+773,FL,Florida,Hillsborough County,South,27.86614,-82.32648
+774,PA,Pennsylvania,Philadelphia County,Northeast,39.95234,-75.16379
+775,TX,Texas,Harris County/Chambers County,South,29.75937,-94.96296
+776,MA,Massachusetts,Essex County,Northeast,42.46676,-70.94949
+777,AZ,Arizona,Maricopa County,West,33.43532,-112.35821
+778,TX,Texas,Denton County,South,33.21484,-97.13307
+779,MI,Michigan,Oakland County,Midwest,42.65837,-83.14993
+780,TX,Texas,Tarrant County/Denton County/Dallas County,South,32.93411,-97.07653
+781,OR,Oregon,Washington County,West,45.43123,-122.77149
+782,NC,North Carolina,New Hanover County,South,34.22573,-77.94471
+783,CA,California,Riverside County,West,33.93752,-117.23059
+784,FL,Florida,Palm Beach County,South,26.93422,-80.09421
+785,GA,Georgia,Fulton County,South,34.02893,-84.19858
+786,CT,Connecticut,New Haven County,Northeast,41.30815,-72.92816
+787,CO,Colorado,Mesa County,West,39.06387,-108.55065
+788,FL,Florida,Charlotte County,South,26.97617,-82.09064
+789,CA,California,San Joaquin County,West,37.79743,-121.21605
+790,NH,New Hampshire,Hillsborough County,Northeast,42.76537,-71.46757
+791,CA,California,Los Angeles County,West,34.18084,-118.30897
+792,CO,Colorado,Arapahoe County,West,39.57916,-104.87692
+793,NC,North Carolina,Mecklenburg County,South,35.22709,-80.84313
+794,KS,Kansas,Sedgwick County,Midwest,37.69224,-97.33754
+795,IN,Indiana,Lake County,Midwest,41.59337,-87.34643
+796,OR,Oregon,Washington County,West,45.52289,-122.98983
+797,TX,Texas,Dallas County,South,32.81402,-96.94889
+798,WA,Washington,Benton County,West,46.28569,-119.28446
+799,ID,Idaho,Ada County,West,43.6135,-116.20345
+800,NY,New York,Albany County,Northeast,42.74333,-73.7856
+801,MS,Mississippi,Rankin County/Hinds County/Madison County,South,32.31583,-90.21282
+802,NY,New York,Onondaga County,Northeast,43.1787,-76.19211
+803,MO,Missouri,St. Charles County,Midwest,38.80033,-90.62651
+804,MO,Missouri,Jackson County/Clay County,Midwest,39.08547,-94.3521
+805,MD,Maryland,Montgomery County,South,39.084,-77.15276
+806,IL,Illinois,Will County/DuPage County,Midwest,41.69112,-88.10157
+807,CO,Colorado,Jefferson County/Adams County,West,39.83373,-105.15031
+808,AZ,Arizona,Maricopa County,West,33.50921,-111.89903
+809,UT,Utah,Utah County,West,40.39162,-111.85077
+810,CA,California,Ventura County,West,34.26945,-118.78148
+811,CA,California,Orange County,West,33.88863,-117.81311
+812,IN,Indiana,Marion County,Midwest,39.67674,-86.15616
+813,CA,California,Contra Costa County,West,37.93576,-122.34775
+814,AZ,Arizona,Coconino County,West,35.19807,-111.65127
+815,WI,Wisconsin,Racine County,Midwest,42.72613,-87.78285
+816,CA,California,San Diego County,West,33.14337,-117.16614
+817,NJ,New Jersey,Middlesex County,Northeast,40.56073,-74.2927
+818,GA,Georgia,Dougherty County,South,31.57851,-84.15574
+819,CA,California,Los Angeles County,West,33.96816,-118.24467
+820,IL,Illinois,Winnebago County,Midwest,42.24868,-89.07452
+821,CO,Colorado,Larimer County,West,40.58526,-105.08442
+822,IL,Illinois,Cook County,Midwest,41.85059,-87.79367
+823,CT,Connecticut,Fairfield County,Northeast,41.07986,-73.54603
+824,FL,Florida,Seminole County,South,28.80055,-81.27312
+825,TX,Texas,Bexar County/Comal County/Medina County,South,29.4724,-98.52514
+826,CA,California,Sacramento County,West,38.4088,-121.37162
+827,IN,Indiana,Lake County,Midwest,41.58533,-87.35516
+828,NJ,New Jersey,Passaic County,Northeast,40.85677,-74.12848
+829,IN,Indiana,Elkhart County,Midwest,41.68199,-85.97667
+830,TN,Tennessee,Montgomery County,South,36.52977,-87.35945
+831,TX,Texas,Randall County/Potter County,South,35.19988,-101.8302
+832,PA,Pennsylvania,Montgomery County,Northeast,40.02991,-75.27897
+833,CA,California,Riverside County,West,33.74752,-116.97197
+834,AZ,Arizona,Maricopa County,West,33.41477,-111.90931
+835,MO,Missouri,Boone County,Midwest,38.95171,-92.33407
+836,MO,Missouri,Cass County/Platte County/Jackson County/Clay County,Midwest,39.12513,-94.55103
+837,TX,Texas,Fort Bend County/Harris County/Brazoria County,South,29.55576,-95.32307
+838,WA,Washington,King County,West,47.38093,-122.23484
+839,RI,Rhode Island,Providence County,Northeast,41.87871,-71.38256
+840,MA,Massachusetts,Hampden County,Northeast,42.10148,-72.58981
+841,CA,California,Merced County,West,37.30216,-120.48297
+842,GA,Georgia,Bibb County,South,32.808840000000004,-83.69419
+843,NY,New York,Westchester County,Northeast,41.03399,-73.76291
+844,AL,Alabama,Shelby County/Jefferson County,South,33.52744,-86.79905
+845,TX,Texas,Fort Bend County,South,29.61968,-95.63495
+846,NE,Nebraska,Douglas County,Midwest,41.25861,-95.93779
+847,OH,Ohio,Cuyahoga County,Midwest,41.48199,-81.79819
+848,NJ,New Jersey,Mercer County,Northeast,40.20627,-74.67527
+849,MN,Minnesota,Anoka County/Ramsey County,Midwest,45.1705,-93.20607
+850,CO,Colorado,Douglas County,West,39.37221,-104.85609
+851,OR,Oregon,Lane County,West,44.05207,-123.08675
+852,LA,Louisiana,Lafayette Parish,South,30.22409,-92.01984
+853,NY,New York,Schenectady County,Northeast,42.81424,-73.93957
+854,UT,Utah,Salt Lake County,West,40.60967,-111.9391
+855,IN,Indiana,Madison County,Midwest,40.10532,-85.68025
+856,CA,California,Sacramento County,West,38.58157,-121.4944
+857,CA,California,Alameda County,West,37.66882,-122.0808
+858,NY,New York,Monroe County,Northeast,43.25035,-77.70052
+859,CT,Connecticut,Fairfield County,Northeast,41.09274,-73.4198
+860,CA,California,San Diego County,West,32.76778,-117.02306
+861,TN,Tennessee,Williamson County,South,35.92506,-86.86889
+862,VA,Virginia,Prince William County,South,38.63706,-77.31109
+863,CA,California,Los Angeles County,West,33.96085,-118.04173
+864,OR,Oregon,Clackamas County/Multnomah County/Washington County,West,45.53695,-122.64997
+865,KS,Kansas,Johnson County,Midwest,39.04167,-94.72024
+866,VA,Virginia,Hampton city,South,37.02987,-76.34522
+867,FL,Florida,Broward County,South,26.10037,-80.39977
+868,NE,Nebraska,Hall County,Midwest,40.92501,-98.34201
+869,OK,Oklahoma,Garfield County,South,36.39559,-97.87839
+870,VA,Virginia,Suffolk city,South,36.72821,-76.58356
+871,OR,Oregon,Benton County/Linn County,West,44.62693,-123.09674
+872,MA,Massachusetts,Suffolk County,Northeast,42.40843,-71.01199
+873,CA,California,Los Angeles County,West,33.97612,-117.90534
+874,IL,Illinois,Cook County,Midwest,41.69043,-87.74383
+875,CA,California,San Mateo County,West,37.56299,-122.32553
+876,NY,New York,Suffolk County,Northeast,40.85745,-72.95984
+877,IL,Illinois,Kane County,Midwest,42.0261,-88.31822
+878,NY,New York,Erie County,Northeast,42.98337,-78.87567
+879,AZ,Arizona,Mohave County,West,34.4839,-114.32245
+880,NJ,New Jersey,Middlesex County,Northeast,40.54564,-74.46082
+881,LA,Louisiana,Jefferson Parish,South,29.99409,-90.24174
+882,GA,Georgia,Muscogee County,South,32.46098,-84.98771
+883,LA,Louisiana,Calcasieu Parish,South,30.22659,-93.21738
+884,CA,California,Santa Cruz County,West,36.91023,-121.75689
+885,TX,Texas,Tarrant County/Ellis County/Dallas County,South,32.68695,-97.0211
+886,CA,California,Solano County,West,38.24936,-122.03997
+887,MO,Missouri,St. Charles County,Midwest,38.78394,-90.48123
+888,NJ,New Jersey,Camden County,Northeast,39.79219,-75.03606
+889,TX,Texas,Williamson County/Travis County,South,30.52524,-97.66595
+890,AZ,Arizona,Pima County,West,32.29785,-110.9187
+891,VA,Virginia,Fairfax County,South,38.96872,-77.3411
+892,OK,Oklahoma,Canadian County/Pottawatomie County/Oklahoma County/Cleveland County,South,35.46708,-97.51366
+893,CA,California,Sacramento County,West,38.49602,-121.40884
+894,CA,California,Orange County,West,33.78779,-117.85311
+895,CA,California,Santa Clara County,West,37.36883,-122.03635
+896,WI,Wisconsin,Brown County,Midwest,44.51916,-88.01983
+897,CA,California,Los Angeles County,West,33.93029,-118.21146
+898,MI,Michigan,Wayne County,Midwest,42.32226,-83.17631
+899,CT,Connecticut,Hartford County,Northeast,41.76657,-72.75494
+900,CA,California,Orange County,West,33.77391,-117.94145
+901,MN,Minnesota,Benton County/Stearns County/Sherburne County,Midwest,45.52662,-94.17105
+902,IN,Indiana,Marion County,Midwest,39.77485,-86.13949
+903,TN,Tennessee,Carter County/Washington County/Sullivan County,South,36.34233,-82.38091
+904,TX,Texas,Midland County/Ector County,South,31.88378,-102.34106
+905,CA,California,Orange County,West,33.87224,-117.87034
+906,FL,Florida,Broward County,South,26.27119,-80.2706
+907,CA,California,San Diego County,West,32.83838,-116.97392
+908,NY,New York,Nassau County,Northeast,40.72593,-73.51429
+909,VA,Virginia,Chesapeake city,South,36.81904,-76.27494
+910,NJ,New Jersey,Union County,Northeast,40.63371,-74.40737
+911,ID,Idaho,Canyon County,West,43.54072,-116.56346
+912,FL,Florida,Volusia County,South,29.21081,-81.02283
+913,AL,Alabama,Mobile County,South,30.69436,-88.04305
+914,TX,Texas,Collin County/Denton County,South,33.15543,-96.8226
+915,UT,Utah,Salt Lake County,West,40.59161,-111.8841
+916,CT,Connecticut,Fairfield County,Northeast,41.1176,-73.4079
+917,CA,California,San Bernardino County,West,34.09751,-117.64839
+918,NV,Nevada,Clark County,West,36.0397,-114.98194
+919,CA,California,Los Angeles County,West,34.0239,-118.17202
+920,IL,Illinois,Lake County,Midwest,42.35277,-88.06133
+921,UT,Utah,Washington County,West,37.10415,-113.58412
+922,NV,Nevada,Carson City,West,39.1638,-119.7674
+923,FL,Florida,Broward County,South,26.1716,-80.26163
+924,SC,South Carolina,Charleston County,South,32.79407,-79.86259
+925,CA,California,Orange County,West,33.931960000000004,-117.94617
+926,MA,Massachusetts,Bristol County,Northeast,41.9001,-71.08977
+927,NY,New York,Suffolk County,Northeast,40.64092,-73.31669
+928,NY,New York,Queens County,Northeast,40.75,-73.86667
+929,TX,Texas,Parker County/Johnson County/Tarrant County/Wise County/Denton County,South,32.78152,-97.34675
+930,CA,California,San Diego County,West,33.19587,-117.37948
+931,TX,Texas,Collin County,South,33.19762,-96.61527
+932,KS,Kansas,Johnson County,Midwest,38.95362,-94.73357
+933,CA,California,Ventura County,West,34.26778,-119.25421
+934,MA,Massachusetts,Middlesex County,Northeast,42.33704,-71.20922
+935,CA,California,Orange County,West,33.87029,-117.92534
+936,CO,Colorado,El Paso County,West,38.83388,-104.82136
+937,OK,Oklahoma,Wagoner County/Tulsa County,South,36.03653,-95.781
+938,FL,Florida,Miami-Dade County,South,25.46872,-80.47756
+939,NY,New York,Nassau County,Northeast,40.63396,-73.6091
+940,NY,New York,Erie County,Northeast,42.91002,-78.74182
+941,CA,California,Fresno County,West,36.74773,-119.77237
+942,LA,Louisiana,Caddo Parish/Bossier Parish,South,32.46688,-93.79219
+943,IL,Illinois,Cook County,Midwest,41.60156,-87.73503
+944,CA,California,Santa Barbara County,West,34.42083,-119.69819
+945,IN,Indiana,Marion County,Midwest,39.77514,-86.01718
+946,WI,Wisconsin,Eau Claire County/Chippewa County,Midwest,44.81966,-91.49488
+947,NE,Nebraska,Lancaster County,Midwest,40.8,-96.66696
+948,OH,Ohio,Montgomery County,Midwest,39.62596,-84.1613
+949,CA,California,Sacramento County,West,38.58907,-121.30273
+950,FL,Florida,Miami-Dade County,South,25.70816,-80.407
+951,AR,Arkansas,Sebastian County,South,35.38592,-94.39855
+952,IL,Illinois,Cook County/DuPage County,Midwest,42.02901,-88.08366
+953,IN,Indiana,Marion County,Midwest,39.67733,-86.01079
+954,AL,Alabama,Shelby County/Jefferson County,South,33.37695,-86.80558
+955,WA,Washington,Spokane County,West,47.65878,-117.42605
+956,MO,Missouri,Newton County/Jasper County,Midwest,37.07636,-94.50121
+957,IL,Illinois,Peoria County,Midwest,40.74495,-89.60964
+958,CA,California,Placer County,West,38.79073,-121.23578
+959,CA,California,Alameda County,West,37.80437,-122.2708
+960,IL,Illinois,Kane County,Midwest,41.76887,-88.31893
+961,IL,Illinois,Will County,Midwest,41.5136,-87.84645
+962,CA,California,San Bernardino County,West,34.42639,-117.30088
+963,CA,California,Alameda County,West,37.72493,-122.15608
+964,UT,Utah,Salt Lake County,West,40.68689,-111.87549
+965,SD,South Dakota,Pennington County,Midwest,44.08054,-103.23101
+966,CA,California,Ventura County,West,34.1975,-119.17705
+967,FL,Florida,Hillsborough County,South,27.9378,-82.28592
+968,OH,Ohio,Hamilton County,Midwest,39.16502,-84.64162
+969,OH,Ohio,Lorain County,Midwest,41.36838,-82.10765
+970,CA,California,Los Angeles County,West,34.06251,-118.12285
+971,AZ,Arizona,Pima County,West,32.32341,-110.9951
+972,OH,Ohio,Butler County,Midwest,39.3995,-84.56134
+973,NJ,New Jersey,Hudson County,Northeast,40.74399,-74.03236
+974,NY,New York,Suffolk County,Northeast,40.78121,-73.24623
+975,AZ,Arizona,Maricopa County,West,33.35283,-111.78903
+976,CA,California,Contra Costa County,West,38.00492,-121.80579
+977,IL,Illinois,DuPage County,Midwest,41.77193,-88.09209
+978,AZ,Arizona,Maricopa County,West,33.53865,-112.18599
+979,NJ,New Jersey,Essex County,Northeast,40.73566,-74.17237
+980,KS,Kansas,Douglas County,Midwest,38.97167,-95.23525
+981,IL,Illinois,Champaign County,Midwest,40.11506,-88.27365
+982,CA,California,San Mateo County,West,37.65472,-122.40778
+983,TX,Texas,Rockwall County/Dallas County,South,32.91592,-96.54867
+984,IN,Indiana,Hamilton County,Midwest,40.04559,-86.0086
+985,TX,Texas,Tarrant County,South,32.83707,-97.08195
+986,NJ,New Jersey,Ocean County,Northeast,40.09789,-74.21764
+987,WA,Washington,Thurston County,West,47.03787,-122.9007
+988,AZ,Arizona,Maricopa County,West,33.30616,-111.84125
+989,MI,Michigan,Oakland County,Midwest,42.48531,-83.37716
+990,TX,Texas,Collin County/Dallas County,South,32.97229,-96.70807
+991,TX,Texas,Caldwell County/Hays County/Guadalupe County,South,29.8729,-97.93773
+992,WA,Washington,King County,West,47.75565,-122.34152
