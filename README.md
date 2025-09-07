@@ -48,28 +48,8 @@ The goals were to uncover:
 - `FactSales[GeoID] → DimGeography[GeoID]`  
 - `FactSales[OrderDate] → DimDate[Date]`  
 
-**Schema (Mermaid ER Diagram):**  
-```mermaid
-erDiagram
-  DimCustomer ||--o{ FactSales : "CustomerID"
-  DimProduct  ||--o{ FactSales : "ProductID"
-  DimGeography||--o{ FactSales : "GeoID"
-  DimDate     ||--o{ FactSales : "OrderDate"
-
-  FactSales {
-    int   OrderNumber
-    date  OrderDate
-    int   Quantity
-    dec   UnitPrice
-    dec   Revenue
-    dec   TotalCost
-    dec   COGS
-    dec   TotalProfit
-    dec   ProfitMargin
-    int   CustomerID
-    int   ProductID
-    int   GeoID
-  }
+The data model was designed as a star schema for efficient reporting.
+![Data_Model](/bluepeak-business-insights/images/data-model.PNG)
 
 ---
 
@@ -154,15 +134,15 @@ erDiagram
 ## Dashboard Preview  
 
 ### Executive Overview  
-![Executive Overview](./images/executive-overview.jpg)  
+![Executive Overview](/bluepeak-business-insights/images/executive-overview.jpg)  
 *High-level KPIs (Revenue, Profit, Margin, Orders, AOV) with monthly YoY trends and regional breakdown for quick executive insights.*  
 
 ### Product Performance  
-![Product Performance](./images/product-performance.jpg)  
+![Product Performance](/bluepeak-business-insights/images/product-insights.jpg)  
 *Revenue and margin contribution by top products, pricing distribution, and profitability analysis to identify high-value and high-risk SKUs.*  
 
 ### Customer & Region Insights  
-![Customer & Region Insights](./images/customer-region-insights.jpg)  
+![Customer & Region Insights](/bluepeak-business-insights/images/customer-and-region-insights.jpg)  
 *Customer segmentation (low vs high value), geographic revenue contribution, and state-level performance to uncover dependency risks and growth opportunities.*  
 
 ---
